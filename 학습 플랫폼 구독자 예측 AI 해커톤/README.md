@@ -1,4 +1,4 @@
-### dacon 학습 플랫폼 구독자 예측 AI 해커톤
+#### dacon 학습 플랫폼 구독자 예측 AI 해커톤
 
 - 링크 : https://dacon.io/competitions/open/236179/overview/description
 - 사용한 모델 : DecisionTreeClassifier모델, Label인코딩, log1p스케일링
